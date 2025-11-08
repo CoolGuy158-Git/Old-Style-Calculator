@@ -19,7 +19,9 @@ No internet, no ads, just pure calculator goodness
 ## Installation
 
 ### 1. Download the file
-Click here 👉 [**Old Style Calculator.exe**](https://github.com/CoolGuy158-Git/Old-Style-Calculator/raw/main/Old%20Style%20Calculator.exe)
+For Version 1.0 Click here 👉 [**Old Style Calculator.exe**](https://github.com/CoolGuy158-Git/Old-Style-Calculator/raw/main/Old%20Style%20Calculator.exe)
+
+For Newest Version Click here 👉 [**Old Style Calculator V.1 update 1.0.exe**](https://github.com/CoolGuy158-Git/Old-Style-Calculator-V.1-update-1.0/raw/main/Old%20Style%20Calculator%20V.1%20update%201.0.exe)
 
 ### 2. Run it  
 Double-click **Old Style Calculator.exe** to start.  
