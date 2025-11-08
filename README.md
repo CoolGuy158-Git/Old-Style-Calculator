@@ -21,7 +21,9 @@ No internet, no ads, just pure calculator goodness
 ### 1. Download the file
 For Version 1.0 Click here 👉 [**Old Style Calculator.exe**](https://github.com/CoolGuy158-Git/Old-Style-Calculator/raw/main/Old%20Style%20Calculator.exe)
 
-For Newest Version Click here 👉 [**Old Style Calculator V.1 update 1.0.exe**](https://github.com/CoolGuy158-Git/Old-Style-Calculator/blob/main/Old%20Style%20Calculator%20V.1%20update%201.0.exe)
+For Version 1.0 Update 1.0 Click here 👉 [**Old Style Calculator.exe**](https://github.com/CoolGuy158-Git/Old-Style-Calculator/blob/main/Old%20Style%20Calculator%20V.1%20update%201.0.exe)
+
+For Newest Ver Click here 👉 [**Old Style Calculator.exe**](https://github.com/CoolGuy158-Git/Old-Style-Calculator/blob/main/Old%20Style%20Calculator%20V.1%20Update%201.1.exe)
 
 ### 2. Run it  
 Double-click **Old Style Calculator.exe** to start.  
@@ -64,4 +66,5 @@ You may share or remix it freely, but please keep the original credit.
 
 > *“Old software never dies, it just gets nostalgic.”* 🧮
 > *Update 1.0 removed the Console from opening*
+> *Update 1.1 removed maximize*
 
