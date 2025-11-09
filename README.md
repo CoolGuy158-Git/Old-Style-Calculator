@@ -18,7 +18,7 @@ No internet, no ads, just pure calculator goodness
 
 ## Screenshot
 
-![Calculator Screenshot](images/Calculator.png)
+![Calculator Screenshot](Calculator.png)
 
 ## Installation
 
