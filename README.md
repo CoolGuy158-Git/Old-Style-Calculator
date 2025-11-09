@@ -16,14 +16,19 @@ Error display for invalid equations
 Compact `.exe` format — no setup required  
 No internet, no ads, just pure calculator goodness  
 
+## Screenshot
+
+![Calculator Screenshot](images/Calculator.png)
+
 ## Installation
 
 ### 1. Download the file
+
+**For Newest Ver Click here 👉 [**Old Style Calculator.exe**](https://github.com/CoolGuy158-Git/Old-Style-Calculator/blob/main/Old%20Style%20Calculator%20V.1%20Update%201.3.exe)**
+
 For Oldest Ver Click here 👉 [**Old Style Calculator.exe**](https://github.com/CoolGuy158-Git/Old-Style-Calculator/raw/main/Old%20Style%20Calculator.exe)
 
 For Other Ver Go To Main.
-
-For Newest Ver Click here 👉 [**Old Style Calculator.exe**](https://github.com/CoolGuy158-Git/Old-Style-Calculator/blob/main/Old%20Style%20Calculator%20V1%20Update%201.2.exe)
 
 ### 2. Run it  
 Double-click **Old Style Calculator.exe** to start.  
@@ -71,4 +76,6 @@ You may share or remix it freely, but please keep the original credit.
 > *Update 1.1 removed maximize*
 >
 > *update 1.2 makes the ERROR message disapear after 1 sec*
+>
+> *update 1.3 made it calculate after clicking "=" in keyboard*
 
