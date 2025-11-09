@@ -65,6 +65,10 @@ This project is for educational and entertainment purposes.
 You may share or remix it freely, but please keep the original credit.  
 
 > *“Old software never dies, it just gets nostalgic.”* 🧮
+> 
 > *Update 1.0 removed the Console from opening*
+> 
 > *Update 1.1 removed maximize*
+>
+> *update 1.2 makes the ERROR message disapear after 1 sec*
 
